@@ -29,6 +29,7 @@ npm install --save-dev eslint eslint-plugin-node
 
 npm install --save-dev eslint-plugin-security
 
+npm install --save eslint-config-airbnb
 ========================================= ES Config file =====================================================
 
 module.exports = {
